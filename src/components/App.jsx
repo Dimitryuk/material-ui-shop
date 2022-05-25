@@ -8,6 +8,7 @@ import Header from "./Header";
 import { Container } from "@mui/material";
 import Basket from "./Basket";
 import Snack from "./Snack";
+import Footer from "./Footer";
 
 const App = () => {
   const [order, setOrder] = useState([]);
@@ -90,6 +91,7 @@ const App = () => {
         }}
       />
       <Snack isOpen={isSnackOpen} handleClose={() => setSnackOpen(false)} />
+      <Footer />
     </>
   );
 };

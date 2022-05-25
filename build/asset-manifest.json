@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/material-ui-shop/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/material-ui-shop/static/js/main.7d064126.chunk.js",
-    "main.js.map": "/material-ui-shop/static/js/main.7d064126.chunk.js.map",
+    "main.js": "/material-ui-shop/static/js/main.0309b09f.chunk.js",
+    "main.js.map": "/material-ui-shop/static/js/main.0309b09f.chunk.js.map",
     "runtime-main.js": "/material-ui-shop/static/js/runtime-main.e34040af.js",
     "runtime-main.js.map": "/material-ui-shop/static/js/runtime-main.e34040af.js.map",
-    "static/js/2.7976a869.chunk.js": "/material-ui-shop/static/js/2.7976a869.chunk.js",
-    "static/js/2.7976a869.chunk.js.map": "/material-ui-shop/static/js/2.7976a869.chunk.js.map",
+    "static/js/2.b174f890.chunk.js": "/material-ui-shop/static/js/2.b174f890.chunk.js",
+    "static/js/2.b174f890.chunk.js.map": "/material-ui-shop/static/js/2.b174f890.chunk.js.map",
     "index.html": "/material-ui-shop/index.html",
     "static/css/main.2ae47eeb.chunk.css.map": "/material-ui-shop/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.7976a869.chunk.js.LICENSE.txt": "/material-ui-shop/static/js/2.7976a869.chunk.js.LICENSE.txt"
+    "static/js/2.b174f890.chunk.js.LICENSE.txt": "/material-ui-shop/static/js/2.b174f890.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e34040af.js",
-    "static/js/2.7976a869.chunk.js",
+    "static/js/2.b174f890.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.7d064126.chunk.js"
+    "static/js/main.0309b09f.chunk.js"
   ]
 }
